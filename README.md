@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I'm Keerthi M 👋
 
-<!--
-**keerthimanjunath18/keerthimanjunath18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 CSE Graduate | Software Engineer | Python & Backend Developer | AI/ML Enthuasist
 
-Here are some ideas to get you started:
+I’m a Computer Science graduate passionate about building practical software solutions and continuously improving my problem-solving skills.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 What I Work With
+
+- 🐍 Python | Django | Flask | FastAPI
+- ⚛️ React.js | JavaScript | TypeScript
+- 🔗 REST APIs | Backend Development
+- 🗄️ MongoDB | MySQL | SQL
+- 🤖 AI/ML | Generative AI
+- 🧠 Data Structures & Algorithms
+- 🐳 Docker | Git | GitHub
+
+### 📌 Interests
+
+Software Engineering • Backend Development • Full-Stack Development • AI/ML • Problem Solving
+
+### 🔨 Currently Building & Learning
+
+Building real-world projects, improving DSA and backend development skills, and continuously learning modern software engineering technologies.
